@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsFlag",
       "BoBxsBookAlt"
     ],
     "recentlyUsedIconsSize": 7,
@@ -24,5 +25,9 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ""
   },
-  "local": "BoBxsBookAlt"
+  "main": {
+    "iconName": "BoBxsFlag",
+    "iconColor": "#ff0000"
+  },
+  "main/categories": "BoBxsBookAlt"
 }

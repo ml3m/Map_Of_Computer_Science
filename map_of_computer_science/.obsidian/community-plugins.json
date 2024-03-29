@@ -2,5 +2,10 @@
   "obsidian-git",
   "obsidian-vimrc-support",
   "obsidian-icon-folder",
-  "persistent-graph"
+  "persistent-graph",
+  "theme-picker",
+  "supercharged-links-obsidian",
+  "obsidian-style-settings",
+  "multi-tag",
+  "tag-wrangler"
 ]

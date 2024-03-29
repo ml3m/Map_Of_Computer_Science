@@ -14,5 +14,13 @@
       ],
       "key": "G"
     }
+  ],
+  "theme-picker:open-theme-picker": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
   ]
 }
