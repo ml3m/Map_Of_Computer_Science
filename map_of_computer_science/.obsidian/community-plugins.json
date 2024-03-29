@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "obsidian-icon-folder",
+  "persistent-graph"
 ]

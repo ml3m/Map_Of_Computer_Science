@@ -1,0 +1,135 @@
+{
+  "nodePositions": [
+    {
+      "id": "local/local.md",
+      "x": 419.32891845703125,
+      "y": 306.46160888671875
+    },
+    {
+      "id": "management information systems",
+      "x": 1844.5335693359375,
+      "y": 1071.80224609375
+    },
+    {
+      "id": "cognitive science and learning theory",
+      "x": 2040.0836181640625,
+      "y": 1054.5872802734375
+    },
+    {
+      "id": "multimedia design",
+      "x": 1959.2099609375,
+      "y": 1238.29296875
+    },
+    {
+      "id": "computational science",
+      "x": 1853.555908203125,
+      "y": 1177.468505859375
+    },
+    {
+      "id": "network engineering",
+      "x": 1745.572998046875,
+      "y": 1126.338623046875
+    },
+    {
+      "id": "performance evaluation",
+      "x": 1923.8125,
+      "y": 1004.1819458007812
+    },
+    {
+      "id": "database engineering",
+      "x": 1796.07373046875,
+      "y": 970.1705322265625
+    },
+    {
+      "id": "professional education and training",
+      "x": 1952.6551513671875,
+      "y": 1120.531982421875
+    },
+    {
+      "id": "digital library science",
+      "x": 2017.5965576171875,
+      "y": 938.2394409179688
+    },
+    {
+      "id": "scientific computing",
+      "x": 1901.1907958984375,
+      "y": 890.9246826171875
+    },
+    {
+      "id": "graphics",
+      "x": 1819.8543701171875,
+      "y": 1283.25390625
+    },
+    {
+      "id": "main/Computer Science.md",
+      "x": 7523.013800139201,
+      "y": 4039.6679687340384
+    },
+    {
+      "id": "artificial intelligence",
+      "x": 3863.884521484375,
+      "y": 2197.745849609375
+    },
+    {
+      "id": "knowledge engineering",
+      "x": 3733.004638671875,
+      "y": 2015.029541015625
+    },
+    {
+      "id": "bioinformatics",
+      "x": 3823.979248046875,
+      "y": 1959.472412109375
+    },
+    {
+      "id": "software architecture",
+      "x": 3699.827880859375,
+      "y": 2228.05322265625
+    },
+    {
+      "id": "HCI (human computer interaction)",
+      "x": 3622.1943359375,
+      "y": 1948.6019287109375
+    },
+    {
+      "id": "software engineering",
+      "x": 3610.67626953125,
+      "y": 2149.158447265625
+    },
+    {
+      "id": "information science",
+      "x": 3832.335693359375,
+      "y": 2078.60791015625
+    },
+    {
+      "id": "system security and privacy",
+      "x": 3917.477783203125,
+      "y": 1999.197265625
+    },
+    {
+      "id": "information systems",
+      "x": 3722.450439453125,
+      "y": 2120.3173828125
+    },
+    {
+      "id": "system administration",
+      "x": 3684.804443359375,
+      "y": 1870.6766357421875
+    },
+    {
+      "id": "instructional design",
+      "x": 3797.594970703125,
+      "y": 1847.9112548828125
+    },
+    {
+      "id": "web service design",
+      "x": 3570.43994140625,
+      "y": 2043.5367431640625
+    },
+    {
+      "id": "work_and_tools_directory/info.md.md",
+      "x": 99.07443237304688,
+      "y": -355.6195373535156
+    }
+  ],
+  "automaticallyRestoreNodePositions": false
+}

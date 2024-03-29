@@ -23,12 +23,15 @@
             "id": "d47cc90b683c2ce3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "main/Computer Science.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "main/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "main/Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "main/Computer Science.md"
+              }
             }
           }
         ]
@@ -151,15 +158,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d47cc90b683c2ce3",
+  "active": "33fd6d80e5007270",
   "lastOpenFiles": [
-    "local.md",
+    "work_and_tools_directory/info.md.md",
     "main/Computer Science.md",
+    "local/local.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "main/Untitled",
+    "work_and_tools_directory",
     "local",
     "main/Data Structures And Algorithms.md",
     "main",
     "Welcome.md",
-    "Untitled.canvas",
     "Untitled 1.md",
     "create a link.md"
   ]
