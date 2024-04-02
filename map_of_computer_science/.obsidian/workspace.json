@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "local/local.md",
+                "file": "main/Computer Science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a238626c3936cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "main/Computer Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,22 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "local/local.md",
+                "file": "main/Computer Science.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "30c26a3caf0f2263",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 200
   },
   "right": {
     "id": "c41b5003fa345b9f",
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "main/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "main/Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "main/Computer Science.md"
+              }
             }
           }
         ]
@@ -163,17 +171,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "30c26a3caf0f2263",
+  "active": "2a238626c3936cb8",
   "lastOpenFiles": [
-    "main/Computer Science.md",
-    "local/local.md",
-    "main/categories/bioinformatics.md",
     "main/categories/cognitive science and learning theory.md",
+    "work_and_tools_directory/helper.md",
+    "helper.md.md",
+    "local/local.md",
+    "main/Computer Science.md",
+    "main/categories/bioinformatics.md",
     "main/categories/database engineering.md",
     "main/categories/computational science.md",
     "main/categories/multimedia design.md",
     "Untitled",
-    "work_and_tools_directory/helper.md",
     "main/categories/scientific computing.md",
     "main/categories/professional education and training.md",
     "main/categories/performance evaluation.md",

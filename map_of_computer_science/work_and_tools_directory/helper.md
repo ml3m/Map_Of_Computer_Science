@@ -1,6 +1,5 @@
 "this node is a helper node"
 
-
 Hotkeys required to be assigned.
 
 <alt> + s  = save graph pos
@@ -8,13 +7,15 @@ Hotkeys required to be assigned.
 
 
 ## plugins needed:
-iconize 
-persistent graph
-Multi Tag
-Style Settings
-Supercharged Links
-Tag Wrangler
+[x] iconize 
+[x] persistent graph
+[x] Multi Tag
+[x] Style Settings
+[x] Supercharged Links
+[x] Tag Wrangler
 
+##side code editor recommended: 
+vscode / sublime
 
 ## docs
 https://help.obsidian.md/Home
