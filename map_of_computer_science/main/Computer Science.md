@@ -21,6 +21,3 @@
 [[system administration]]
 [[instructional design]]
 [[web service design]]
-
-main
-aici e proiectul main
