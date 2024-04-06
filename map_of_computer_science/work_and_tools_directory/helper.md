@@ -21,3 +21,11 @@ vscode / sublime
 https://help.obsidian.md/Home
 
 ## project settings json/css/js in .obsidian directory.
+
+.
+## Colaborators will be added via collaborators github in settings.
+required: Github Desktop Client, Obsidian
+
+## Download Links
+Github Client: https://desktop.github.com/
+Obsidian: https://obsidian.md/download
