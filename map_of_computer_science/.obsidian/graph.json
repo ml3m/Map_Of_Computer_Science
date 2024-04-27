@@ -17,10 +17,11 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.347920997921,
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 3.2745883802094,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
+<<<<<<< HEAD
   "centerStrength": 0.362785862785863,
   "repelStrength": 8.17047817047817,
   "linkStrength": 0.608108108108108,
@@ -28,7 +29,6 @@
 <<<<<<< Updated upstream
   "scale": 0.7983383662254976,
 =======
-  "scale": 0.7514342322277604,
->>>>>>> Stashed changes
+  
   "close": false
 }

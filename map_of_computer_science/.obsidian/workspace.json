@@ -11,8 +11,12 @@
             "id": "a54810b789a1fb30",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "main/Computer Science.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -39,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,10 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
                 "file": "work_and_tools_directory/helper.md",
-=======
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,10 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
                 "file": "work_and_tools_directory/helper.md",
-=======
->>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,13 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
               "state": {
                 "file": "work_and_tools_directory/helper.md"
               }
-=======
-              "state": {}
->>>>>>> Stashed changes
             }
           }
         ]
@@ -176,21 +171,28 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a54810b789a1fb30",
+  "active": "2a238626c3936cb8",
   "lastOpenFiles": [
+    "test.md",
+    "software architecture.md",
+    "main/subcategories/AI General.md",
+    "main/subcategories",
+    "artificial intelligence.md",
+    "Untitled.md",
+    "Important people & journals.md",
+    "General.md",
+    "Assets/Attachments/images.jpg",
+    "Assets/Attachments/Pasted image 20240427184102.png",
+    "Assets/Attachments/test1.md",
+    "Assets/Attachments/images 1.jpg",
+    "Assets/Attachments",
+    "Assets",
     "main/Computer Science.md",
-<<<<<<< Updated upstream
     "local/local.md",
     "work_and_tools_directory/helper.md",
     "main/categories/bioinformatics.md",
     "main/categories/cognitive science and learning theory.md",
     "helper.md.md",
-=======
-    "main/categories/bioinformatics.md",
-    "main/categories/cognitive science and learning theory.md",
-    "helper.md.md",
-    "local/local.md",
->>>>>>> Stashed changes
     "main/categories/database engineering.md",
     "main/categories/computational science.md",
     "main/categories/multimedia design.md",
