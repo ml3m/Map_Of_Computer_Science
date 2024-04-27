@@ -49,7 +49,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "General.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0d1bf8edbc721be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da4d5630f14697d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "General.md"
               }
             }
           }
@@ -205,21 +229,23 @@
       "graph:Open graph view": false
     }
   },
-  "active": "832126f2381b59c2",
+  "active": "da4d5630f14697d5",
   "lastOpenFiles": [
-    "artificial intelligence.md",
-    "test.md",
-    "Untitled",
     "Important people & journals.md",
+    "General.md",
+    "software architecture.md",
+    "Untitled.md",
+    "test.md",
+    "Assets/Attachments/test1.md",
+    "artificial intelligence.md",
+    "Untitled",
     "work_and_tools_directory/helper.md",
     "main/Computer Science.md",
     "main/subcategories/AI General.md",
     "main/categories/bioinformatics.md",
     "local/local.md",
     "main/categories/cognitive science and learning theory.md",
-    "General.md",
     "main/subcategories",
-    "software architecture.md",
     "Assets/Attachments/Pasted image 20240427184102.png",
     "Assets/Attachments/images 1.jpg",
     "Assets/Attachments/images.jpg",
