@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main/Computer Science.md",
+                "file": "local/local.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 412.504695892334
   },
   "right": {
     "id": "c41b5003fa345b9f",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Computer Science.md",
+                "file": "local/local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Computer Science.md",
+                "file": "local/local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "main/Computer Science.md"
+                "file": "local/local.md"
               }
             }
           }
@@ -174,11 +174,11 @@
   "active": "2a238626c3936cb8",
   "lastOpenFiles": [
     "work_and_tools_directory/helper.md",
+    "local/local.md",
+    "main/categories/bioinformatics.md",
     "main/Computer Science.md",
     "main/categories/cognitive science and learning theory.md",
     "helper.md.md",
-    "local/local.md",
-    "main/categories/bioinformatics.md",
     "main/categories/database engineering.md",
     "main/categories/computational science.md",
     "main/categories/multimedia design.md",
