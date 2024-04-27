@@ -29,3 +29,6 @@ required: Github Desktop Client, Obsidian
 ## Download Links
 Github Client: https://desktop.github.com/
 Obsidian: https://obsidian.md/download
+[[images.jpg]]
+
+https://www.youtube.com/watch?v=36UgzC3uEcU

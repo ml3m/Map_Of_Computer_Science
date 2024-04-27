@@ -25,9 +25,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "local/local.md",
+                "file": "artificial intelligence.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a9f18f8a856b9c8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed973458b94f120a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Attachments/images.jpg"
               }
             }
           },
@@ -44,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.504695892334
+    "width": 253.50469589233398
   },
   "right": {
     "id": "c41b5003fa345b9f",
@@ -110,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "local/local.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "local/local.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "local/local.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,18 +185,31 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2a238626c3936cb8",
+  "active": "a9f18f8a856b9c8d",
   "lastOpenFiles": [
+    "main/subcategories/AI General.md",
+    "main/Computer Science.md",
+    "artificial intelligence.md",
+    "General.md",
     "work_and_tools_directory/helper.md",
+    "Important people & journals.md",
+    "main/subcategories",
+    "software architecture.md",
+    "Assets/Attachments/Pasted image 20240427184102.png",
+    "Assets/Attachments/images 1.jpg",
+    "Assets/Attachments/images.jpg",
+    "Assets/Attachments/Untitled",
+    "Assets/Attachments",
+    "Assets/Untitled.md",
+    "Assets/Attachments",
+    "Assets",
     "local/local.md",
     "main/categories/bioinformatics.md",
-    "main/Computer Science.md",
     "main/categories/cognitive science and learning theory.md",
     "helper.md.md",
     "main/categories/database engineering.md",
     "main/categories/computational science.md",
     "main/categories/multimedia design.md",
-    "Untitled",
     "main/categories/scientific computing.md",
     "main/categories/professional education and training.md",
     "main/categories/performance evaluation.md",
