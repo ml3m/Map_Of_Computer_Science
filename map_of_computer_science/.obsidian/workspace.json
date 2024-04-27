@@ -35,8 +35,24 @@
             "id": "a9f18f8a856b9c8d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "artificial intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "832126f2381b59c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -62,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.50469589233398
+    "width": 275.504695892334
   },
   "right": {
     "id": "c41b5003fa345b9f",
@@ -128,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test.md"
+              }
             }
           }
         ]
@@ -185,14 +205,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a9f18f8a856b9c8d",
+  "active": "832126f2381b59c2",
   "lastOpenFiles": [
-    "main/subcategories/AI General.md",
-    "main/Computer Science.md",
     "artificial intelligence.md",
-    "General.md",
-    "work_and_tools_directory/helper.md",
+    "test.md",
+    "Untitled",
     "Important people & journals.md",
+    "work_and_tools_directory/helper.md",
+    "main/Computer Science.md",
+    "main/subcategories/AI General.md",
+    "main/categories/bioinformatics.md",
+    "local/local.md",
+    "main/categories/cognitive science and learning theory.md",
+    "General.md",
     "main/subcategories",
     "software architecture.md",
     "Assets/Attachments/Pasted image 20240427184102.png",
@@ -203,9 +228,6 @@
     "Assets/Untitled.md",
     "Assets/Attachments",
     "Assets",
-    "local/local.md",
-    "main/categories/bioinformatics.md",
-    "main/categories/cognitive science and learning theory.md",
     "helper.md.md",
     "main/categories/database engineering.md",
     "main/categories/computational science.md",
@@ -222,7 +244,6 @@
     "Untitled 1.canvas",
     "main/Untitled",
     "work_and_tools_directory",
-    "local",
-    "main"
+    "local"
   ]
 }
