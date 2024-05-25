@@ -1,0 +1,1 @@
+Web service design focuses on creating standardized ways for web-based applications to interact over the internet. This interaction is facilitated through a set of open standards like XML, SOAP, WSDL, and UDDI, which ensure that different systems can communicate regardless of the underlying programming languages or platforms.

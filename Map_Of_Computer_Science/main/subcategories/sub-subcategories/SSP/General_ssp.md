@@ -1,0 +1,1 @@
+System security and privacy involve protecting information systems from unauthorized access, use, disclosure, disruption, modification, or destruction to provide confidentiality, integrity, and availability. These concepts are fundamental in securing both private and organizational data from various threats, including cyber attacks, data breaches, and more.

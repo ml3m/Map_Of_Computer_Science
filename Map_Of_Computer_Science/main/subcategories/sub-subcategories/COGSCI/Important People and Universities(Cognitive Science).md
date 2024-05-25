@@ -1,0 +1,3 @@
+Cognitive science in Romania is represented by several institutions and researchers who are actively engaged in the field. For example, Babes-Bolyai University in Cluj-Napoca houses the Cognitive Neuroscience Laboratory, which focuses on the psychological and biological underpinnings of emotion and emotion regulation in humans. They employ various methods, from genotyping to optical neuroimaging, to explore individual differences and the influence of emotions on decision-making and other cognitive functions (https://www.cognitive-neuroscience.ro/). 
+
+#people 

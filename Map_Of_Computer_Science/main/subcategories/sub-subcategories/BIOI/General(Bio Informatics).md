@@ -1,0 +1,4 @@
+---
+tags: []
+---
+Bioinformatics combines biology, computer science, mathematics, and other disciplines, facilitating the analysis and interpretation of complex biological data. The inception of bioinformatics can be traced back to the creation of GenBank in 1974, with subsequent developments including DNA sequence databases like EMBL and DDBJ. Pioneering software like GENEINFO and Entrez, developed by David Benson and David Lipman, enabled researchers to search and compare sequences with efficiency. The field has made significant advancements through methodologies such as sequence alignment, RNA structure prediction, evolutionary relationship determination, and functional annotation. Tools like FASTA and BLAST have revolutionized the way biological data is analyzed, leading to an upsurge in bioinformatics publications and the complete sequencing of numerous genomes (https://www.intechopen.com/chapters/50934).

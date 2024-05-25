@@ -1,0 +1,3 @@
+Managing Change and Resistance: Dealing with resistance to change and overcoming obstacles to adoption of new instructional methods or technologies.
+Communicate the benefits and rationale for change effectively to stakeholders, and involve them in the decision-making process to build buy-in and support. Provide training, professional development opportunities, and incentives to encourage adoption of new instructional practices and technologies.
+By proactively addressing these challenges and implementing effective solutions, instructional designers can create high-quality learning experiences that engage learners, facilitate knowledge acquisition, and achieve desired learning outcomes. (https://iste.org/) (https://www.instructionaldesigncentral.com/)

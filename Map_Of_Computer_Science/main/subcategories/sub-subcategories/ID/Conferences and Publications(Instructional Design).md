@@ -1,0 +1,4 @@
+EC-TEL is a leading international conference that brings together researchers, practitioners, and policymakers to discuss the latest advancements in technology-enhanced learning, including instructional design, educational technology, and digital pedagogies. (https://ea-tel.eu/ec-tel-conference
+
+ICLS is a premier conference that focuses on interdisciplinary research on learning, cognition, and technology. The conference covers topics such as instructional design, learning analytics, and collaborative learning environments.
+Journal of Educational Technology & Society (JETS) (https://www.j-ets.net/)

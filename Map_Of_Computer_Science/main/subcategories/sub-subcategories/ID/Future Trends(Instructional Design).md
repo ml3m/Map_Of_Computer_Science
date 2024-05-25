@@ -1,0 +1,1 @@
+Future instructional designs are likely to be more personalized, catering to individual learner needs, preferences, and learning styles. Adaptive learning technologies, data analytics, and artificial intelligence will enable the customization of learning pathways, content, and assessments to optimize learning outcomes for each learner. (https://www.aect.org/home)

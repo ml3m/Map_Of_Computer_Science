@@ -1,0 +1,1 @@
+- A pioneer in web design, Davis was influential in the integration of art and technology in web interfaces, using design to enhance user interaction in the early days of the web.

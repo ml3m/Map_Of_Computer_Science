@@ -1,0 +1,1 @@
+Major problems in AI revolve around achieving artificial general intelligence ([[AGI]]), which would enable machines to perform any intellectual task that a human can. Other issues include the ethical use of AI, avoiding algorithmic bias, and ensuring AI safety (https://en.wikipedia.org/wiki/Artificial_intelligence) (https://builtin.com/artificial-intelligence).

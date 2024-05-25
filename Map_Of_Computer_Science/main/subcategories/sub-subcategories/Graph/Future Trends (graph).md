@@ -1,0 +1,1 @@
+Future trends in graphics include the rise of augmented reality (AR) and virtual reality (VR), advancements in real-time ray tracing, and the integration of AI to enhance visual effects and animation quality. These technologies will drive new forms of interactive media and immersive experiences.

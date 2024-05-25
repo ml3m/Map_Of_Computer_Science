@@ -1,0 +1,2 @@
+
+In terms of academic rankings, universities in Romania are actively engaged in cognitive science research. Some of the well-recognized ones include Politehnica University of Bucharest, University of Bucharest, Babes-Bolyai University, Technical University of Cluj-Napoca, and West University of Timisoara, all of which contribute to the field in various capacities (https://edurank.org/psychology/cognitive-science/ro/).

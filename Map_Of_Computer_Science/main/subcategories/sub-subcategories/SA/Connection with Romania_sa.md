@@ -1,0 +1,1 @@
+Romania, with its growing IT sector, is becoming increasingly involved in the software architecture community. Romanian universities and technology hubs often collaborate on software architecture research and development, contributing to global advancements in software methodologies and education.

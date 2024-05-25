@@ -1,0 +1,1050 @@
+{
+  "nodePositions": [
+    {
+      "id": "local/UVT.md",
+      "x": 16899.796875,
+      "y": -30563.828125
+    },
+    {
+      "id": "main/Computer Science.md",
+      "x": -69800.9921875,
+      "y": -32821.08984375
+    },
+    {
+      "id": "main/categories/Artificial intelligence.md",
+      "x": 11918.1025390625,
+      "y": -29881.609375
+    },
+    {
+      "id": "main/categories/HCI (human computer interaction).md",
+      "x": 14555.05859375,
+      "y": -31221.16015625
+    },
+    {
+      "id": "main/categories/Information Systems.md",
+      "x": 13421.375,
+      "y": -32020.392578125
+    },
+    {
+      "id": "main/categories/Instructional Design.md",
+      "x": 13899.8154296875,
+      "y": -31009.85546875
+    },
+    {
+      "id": "main/categories/bioinformatics.md",
+      "x": 1079.1597900390625,
+      "y": -30365.28515625
+    },
+    {
+      "id": "main/categories/cognitive science and learning theory.md",
+      "x": 11222.4892578125,
+      "y": -33542.23046875
+    },
+    {
+      "id": "main/categories/computational science.md",
+      "x": 10310.486328125,
+      "y": -32029.126953125
+    },
+    {
+      "id": "main/categories/database engineering.md",
+      "x": 12047.1787109375,
+      "y": -29533.8671875
+    },
+    {
+      "id": "main/categories/digital library science.md",
+      "x": 11677.966796875,
+      "y": -28097.66015625
+    },
+    {
+      "id": "main/categories/graphics.md",
+      "x": 7270.20166015625,
+      "y": -30728.197265625
+    },
+    {
+      "id": "main/categories/information science.md",
+      "x": 8961.2119140625,
+      "y": -30179.666015625
+    },
+    {
+      "id": "main/categories/knowledge engineering.md",
+      "x": -317.557861328125,
+      "y": -30930.419921875
+    },
+    {
+      "id": "main/categories/management information systems.md",
+      "x": 7360.30517578125,
+      "y": -28643.736328125
+    },
+    {
+      "id": "main/categories/multimedia design.md",
+      "x": 1431.6900634765625,
+      "y": -30408.552734375
+    },
+    {
+      "id": "main/categories/network engineering.md",
+      "x": 5311.40185546875,
+      "y": -31588.560546875
+    },
+    {
+      "id": "main/categories/performance evaluation.md",
+      "x": -1720.5052490234375,
+      "y": -32586.888671875
+    },
+    {
+      "id": "main/categories/professional education and training.md",
+      "x": 3903.73095703125,
+      "y": -31134.095703125
+    },
+    {
+      "id": "main/categories/scientific computing.md",
+      "x": 15486.2939453125,
+      "y": -29022.84375
+    },
+    {
+      "id": "main/categories/software architecture.md",
+      "x": 12643.4990234375,
+      "y": -30416.583984375
+    },
+    {
+      "id": "main/categories/software engineering.md",
+      "x": 14056.0947265625,
+      "y": -29653.572265625
+    },
+    {
+      "id": "main/categories/system administration.md",
+      "x": 5872.4296875,
+      "y": -30001.98046875
+    },
+    {
+      "id": "main/categories/system security and privacy.md",
+      "x": 8983.0576171875,
+      "y": -31505.587890625
+    },
+    {
+      "id": "main/categories/web service design.md",
+      "x": 1445.7799072265625,
+      "y": -30611.2265625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/AI/Future Predictions(AI.md",
+      "x": 15126.48828125,
+      "y": -29857.880859375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/AI/General(AI).md",
+      "x": 13349.3173828125,
+      "y": -29997.77734375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/AI/Important people & journals(AI).md",
+      "x": 41739.51953125,
+      "y": -28337.3125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/AI/Problems(AI).md",
+      "x": 14304.9990234375,
+      "y": -29965.8046875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/AI/Universities(AI).md",
+      "x": 33882.234375,
+      "y": -28506.146484375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/AI/sub-sub/Immunotherapy for Cancer.md",
+      "x": 34867.39453125,
+      "y": -28122.3359375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/BIOI/Future Predictions(Bio Informatics).md",
+      "x": 30401.994140625,
+      "y": -28434.08203125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/BIOI/General(Bio Informatics).md",
+      "x": 2414.5791015625,
+      "y": -30407.1640625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/BIOI/Important people & stuff(Bio Informatics).md",
+      "x": 3418.2451171875,
+      "y": -30486.171875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/BIOI/Problems(Bio Informatics).md",
+      "x": 2653.316650390625,
+      "y": -30426.80859375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/BIOI/Universities(Bio Informatics).md",
+      "x": 15832.4638671875,
+      "y": -30005.55078125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/BIOI/sub-sub/Spatial Transcriptomics.md",
+      "x": 34409.43359375,
+      "y": -28157.23046875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/COGSCI/Challenges and Solutions(Cognitive Science.md",
+      "x": 15000.08984375,
+      "y": -33589.0390625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/COGSCI/Conection with Romania(Cognitive Science).md",
+      "x": 14590.12890625,
+      "y": -33594.80859375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/COGSCI/Conferences and Publications(Cognitive Science).md",
+      "x": 14789.56640625,
+      "y": -33582.41796875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/COGSCI/Future Predictions(Cognitive Science).md",
+      "x": 14385.3662109375,
+      "y": -33584.01953125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/COGSCI/General(Cognitive Science).md",
+      "x": 13562.0361328125,
+      "y": -33609.9296875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/COGSCI/Important People and Universities(Cognitive Science).md",
+      "x": 13784.8662109375,
+      "y": -33609.66796875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/COGSCI/key Figures(Cognitive Science.md",
+      "x": 25432.568359375,
+      "y": -33050.1171875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/CS/Challenges and Solutions(CS).md",
+      "x": 13649.08203125,
+      "y": -32151.017578125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/CS/Connection with Romania(CS).md",
+      "x": 13409.953125,
+      "y": -32180.826171875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/CS/Future Predictions(CS).md",
+      "x": 13208.5068359375,
+      "y": -32124.90234375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/CS/Key Figures(CS).md",
+      "x": 33356.546875,
+      "y": -30974.875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/CS/Overview(CS).md",
+      "x": 12228.736328125,
+      "y": -32134.994140625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/CS/References(CS).md",
+      "x": 12441.259765625,
+      "y": -32152.076171875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/DBE/Challenges and Solutions(DBE).md",
+      "x": 13619.087890625,
+      "y": -29501.658203125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/DBE/Connection with Romania(DBE).md",
+      "x": 15114.791015625,
+      "y": -29384.5546875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/DBE/Future Predictions(DBE).md",
+      "x": 14903.0361328125,
+      "y": -29403.935546875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/DBE/Key Figures(DBE).md",
+      "x": 47379.58203125,
+      "y": -27019.095703125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/DBE/Overview(DBE).md",
+      "x": 13805.0517578125,
+      "y": -29506.15234375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/DBE/References(DBE).md",
+      "x": 13987.2412109375,
+      "y": -29476.3125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/DLS/Challenges and Solutions_dls.md",
+      "x": 14301.4423828125,
+      "y": -27880.845703125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/DLS/Conferences and Publications_dls.md",
+      "x": 15316.9521484375,
+      "y": -27839.53515625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/DLS/Connection with Romania_dls.md",
+      "x": 15098.04296875,
+      "y": -27846.22265625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/DLS/Future Predictions_dls.md",
+      "x": 14518.96875,
+      "y": -27873.916015625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/DLS/General_dls.md",
+      "x": 24518.140625,
+      "y": -27392.251953125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/DLS/Key Figures_dls.md",
+      "x": 25325.958984375,
+      "y": -27318.634765625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/Graph/Challenges and Solutions(graph).md",
+      "x": 10191.9736328125,
+      "y": -30692.3359375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/Graph/Conferences and Publications (graph).md",
+      "x": 10920.98046875,
+      "y": -30664.12890625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/Graph/Connection with Romania (graph).md",
+      "x": 10730.5947265625,
+      "y": -30703.1875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/Graph/Future Trends (graph).md",
+      "x": 10376.298828125,
+      "y": -30731.275390625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/Graph/Key Figures (graph).md",
+      "x": 10543.1044921875,
+      "y": -30641.76953125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/Graph/Overview (graph).md",
+      "x": 10003.3671875,
+      "y": -30720.408203125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/HCL/Challenges and Solutions_HCL.md",
+      "x": 16669.26953125,
+      "y": -31238.529296875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/HCL/Conferences and Publications_HCL.md",
+      "x": 17893.490234375,
+      "y": -31224.462890625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/HCL/Connections with Romania_HCL.md",
+      "x": 27068.966796875,
+      "y": -30820.673828125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/HCL/Future Predictions_HCL.md",
+      "x": 16885.771484375,
+      "y": -31271.87890625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/HCL/Key Figures_HCL.md",
+      "x": 26574.16796875,
+      "y": -30753.806640625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/HCL/Overview_HCL.md",
+      "x": 16461.25390625,
+      "y": -31236.384765625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/ID/Challenges and Solutions(Instructional Design).md",
+      "x": 16468.091796875,
+      "y": -30927.494140625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/ID/Conferences and Publications(Instructional Design).md",
+      "x": 17445.552734375,
+      "y": -30971.5078125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/ID/Connection with Romania(Instructional Design).md",
+      "x": 17224.51171875,
+      "y": -30969.125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/ID/Future Trends(Instructional Design).md",
+      "x": 16682.220703125,
+      "y": -30963.7109375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/ID/Key Figures(Instructional Design).md",
+      "x": 26978.54296875,
+      "y": -30511.283203125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/ID/Overview(Instructional Design).md",
+      "x": 16246.6611328125,
+      "y": -30922.822265625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/ISys/Challenges and Solutions(Information Systems).md",
+      "x": 15958.48828125,
+      "y": -32112.24609375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/ISys/Conferences and Publications(Information Systems).md",
+      "x": 16955.603515625,
+      "y": -32098.12890625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/ISys/Connection with Romania(Information Systems).md",
+      "x": 16734.283203125,
+      "y": -32103.650390625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/ISys/Future Trends(Information Systems).md",
+      "x": 16164.0419921875,
+      "y": -32113.5546875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/ISys/Key Figure(Information System).md",
+      "x": 26618.32421875,
+      "y": -31695.669921875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/ISys/Overview(Information System).md",
+      "x": 15754.3310546875,
+      "y": -32097.263671875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/KE/Challenges and Solutions(KE).md",
+      "x": 1537.6583251953125,
+      "y": -31046.974609375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/KE/Connection with Romania(KE).md",
+      "x": 1754.5374755859375,
+      "y": -31053.609375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/KE/Future Predictions(KE).md",
+      "x": 1970.056396484375,
+      "y": -31066.953125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/KE/Key Figures(KE).md",
+      "x": 27647.33984375,
+      "y": -29348.5859375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/KE/Overview(KE).md",
+      "x": 2987.4833984375,
+      "y": -31029.896484375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/MD/Challenges and Solutions(MD).md",
+      "x": 4673.86279296875,
+      "y": -30539.365234375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/MD/Connections with Romania(MD).md",
+      "x": 4904.96484375,
+      "y": -30528.60546875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/MD/Future Predictions(MD).md",
+      "x": 4431.67236328125,
+      "y": -30537.259765625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/MD/General(MD).md",
+      "x": 3475.93603515625,
+      "y": -30393.20703125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/MD/Key Figures(MD).md",
+      "x": 28915.205078125,
+      "y": -28575.158203125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/MIS/Challenges and Solutions(MIS).md",
+      "x": 10678.8203125,
+      "y": -28429.720703125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/MIS/Connections with Romania(MSI).md",
+      "x": 10882.93359375,
+      "y": -28419.9765625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/MIS/Future Predictions(MIS).md",
+      "x": 10477.50390625,
+      "y": -28442.423828125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/MIS/General(MIS).md",
+      "x": 9429.109375,
+      "y": -28523.830078125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/MIS/Key Figures(MIS).md",
+      "x": 32843.765625,
+      "y": -26613.806640625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/MIS/Problems(MIS).md",
+      "x": 9645.123046875,
+      "y": -28512.962890625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/NE/Challenges and Solutions(Network engineering).md",
+      "x": 7225.5673828125,
+      "y": -31678.69921875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/NE/Connection with Romania(Network engineering).md",
+      "x": 7434.25390625,
+      "y": -31683.1171875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/NE/Future Predicitons(Network engineering).md",
+      "x": 7643.9013671875,
+      "y": -31683.2890625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/NE/Key Figure(Network engineering).md",
+      "x": 30609.064453125,
+      "y": -30271.4765625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/NE/Overview(Network engineering).md",
+      "x": 8555.3994140625,
+      "y": -31625.435546875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/PE/Challenges and Solutions(PE).md",
+      "x": 374.574951171875,
+      "y": -32726.95703125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/PE/Connections with Romania(PE).md",
+      "x": 610.1209716796875,
+      "y": -32741.32421875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/PE/Future Predictions(PE).md",
+      "x": 856.00048828125,
+      "y": -32756.607421875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/PE/General(PE).md",
+      "x": 133.67431640625,
+      "y": -32712.16015625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/PE/Key Figures(PE).md",
+      "x": 29058.541015625,
+      "y": -31228.34765625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/PROED/Challenges and Solutions(professional education and training).md",
+      "x": 6245.44677734375,
+      "y": -31093.458984375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/PROED/Connection with Romania(professional education and training).md",
+      "x": 6453.97900390625,
+      "y": -31077.73828125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/PROED/Future Predictions(professional education and training).md",
+      "x": 6664.3818359375,
+      "y": -31068.73046875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/PROED/Key Figures(professional education and training).md",
+      "x": 18770.453125,
+      "y": -30490.658203125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/PROED/Overview(professional education and training).md",
+      "x": 7363.77587890625,
+      "y": -31058.322265625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SA/Challenges and Solutions_sa.md",
+      "x": 14806.787109375,
+      "y": -30427.943359375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SA/Conferences and Publications_sa.md",
+      "x": 15888.28515625,
+      "y": -30325.873046875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SA/Connection with Romania_sa.md",
+      "x": 15688.13671875,
+      "y": -30347.46484375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SA/Educational Path and Certifications_SA.md",
+      "x": 9030.2001953125,
+      "y": -29867.626953125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SA/Future Predictions_sa.md",
+      "x": 15000.189453125,
+      "y": -30419.8671875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SA/General_sa.md",
+      "x": 14612.900390625,
+      "y": -30435.240234375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SA/Key Figures_sa.md",
+      "x": 34757.90234375,
+      "y": -29170.869140625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SC/Challenges and Solutions_SC.md",
+      "x": 18019.705078125,
+      "y": -28861.4375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SC/Conferences and Publications_sc.md",
+      "x": 19052.35546875,
+      "y": -28875.646484375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SC/Connection with Romania_SC.md",
+      "x": 28304.705078125,
+      "y": -28282.9375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SC/Future Predictions_sc.md",
+      "x": 18212.091796875,
+      "y": -28884.587890625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SC/General_SC.md",
+      "x": 17829.490234375,
+      "y": -28882.787109375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SC/Key Figures_sc.md",
+      "x": 27844.935546875,
+      "y": -28429.08984375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SE/Challenges and Solutions_se.md",
+      "x": 16911.986328125,
+      "y": -29514.984375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SE/Conferences and Publications_se.md",
+      "x": 17814.818359375,
+      "y": -29547.7734375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SE/Connection with Romania_se.md",
+      "x": 17604.51171875,
+      "y": -29541.603515625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SE/Future Predictions_se.md",
+      "x": 17102.919921875,
+      "y": -29538.076171875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SE/General_se.md",
+      "x": 16720.70703125,
+      "y": -29522.607421875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SE/Key Figures_se.md",
+      "x": 27292.916015625,
+      "y": -29158.5078125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SSP/Challenges and Solutions_ssp.md",
+      "x": 11896.919921875,
+      "y": -31497.55859375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SSP/Data Security Practices_ssp.md",
+      "x": 12461.25,
+      "y": -31466.150390625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SSP/Future Predictions_ssp.md",
+      "x": 12669.830078125,
+      "y": -31476.41796875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SSP/General_ssp.md",
+      "x": 11697.9140625,
+      "y": -31495.9921875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SSP/Key Figures_spp.md",
+      "x": 12084.265625,
+      "y": -31459.087890625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/SSP/Technological Advances_ssp.md",
+      "x": 12269.7841796875,
+      "y": -31501.708984375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/Sysadmin/Career Prospects_SA.md",
+      "x": 9214.6982421875,
+      "y": -29825.748046875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/Sysadmin/Key Responsibilities_SA.md",
+      "x": 8840.8193359375,
+      "y": -29846.078125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/Sysadmin/Overview_SA.md",
+      "x": 8651.609375,
+      "y": -29895.564453125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/Sysadmin/Skills Development_SA.md",
+      "x": 9410.685546875,
+      "y": -29847.486328125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/WSD/Advantages of Using Web Services_WSD.md",
+      "x": 4991.921875,
+      "y": -30466.140625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/WSD/Key Components_WSD.md",
+      "x": 4500.884765625,
+      "y": -30455.662109375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/WSD/Lifecycle Phases_WSD.md",
+      "x": 4731.6455078125,
+      "y": -30442.279296875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/WSD/Overview_WSD.md",
+      "x": 4248.02734375,
+      "y": -30539.791015625
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/infoSci/Conferences and Publications_IS.md",
+      "x": 12763.7353515625,
+      "y": -29975.36328125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/infoSci/Connection with Romania_IS.md",
+      "x": 12527.423828125,
+      "y": -29985.4453125
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/infoSci/Future Trends_IS.md",
+      "x": 11795.869140625,
+      "y": -30031.302734375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/infoSci/Key Challenges and Solutions_IS.md",
+      "x": 11571.6328125,
+      "y": -30034.84375
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/infoSci/Key Figures_IS.md",
+      "x": 24096.154296875,
+      "y": -29394.294921875
+    },
+    {
+      "id": "main/subcategories/sub-subcategories/infoSci/Overview_IS.md",
+      "x": 11333.3857421875,
+      "y": -30057.150390625
+    },
+    {
+      "id": "work_and_tools_directory/helper.md",
+      "x": -37319.68359375,
+      "y": 17205.423828125
+    },
+    {
+      "id": "worldwide/MIT.md",
+      "x": 4700.7421875,
+      "y": -29809.771484375
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240427184102 1.png",
+      "x": 30402.205078125,
+      "y": 18961.916015625
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240427184102.png",
+      "x": -9636.21484375,
+      "y": 39390.55078125
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240427195304.png",
+      "x": 31591.822265625,
+      "y": -30348.087890625
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240427200832.png",
+      "x": 44371.47265625,
+      "y": -28190.373046875
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240427200938.png",
+      "x": 44644.4609375,
+      "y": -28181.529296875
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240427201020.png",
+      "x": 44918.56640625,
+      "y": -28156.447265625
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240427201545.png",
+      "x": 37176.99609375,
+      "y": -28276.98828125
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240427201717.png",
+      "x": 37563.18359375,
+      "y": -28237.0390625
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240427202635.png",
+      "x": 21003.294921875,
+      "y": -29885.333984375
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240427204339.png",
+      "x": 30517.431640625,
+      "y": -32886.25
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240428102745.png",
+      "x": 38103.5625,
+      "y": -28979.4140625
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240428102846.png",
+      "x": 38492.35546875,
+      "y": -28942.912109375
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240428141944.png",
+      "x": 30958.38671875,
+      "y": -30599.078125
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240428142143.png",
+      "x": 31464.52734375,
+      "y": -30679.375
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240428143756.png",
+      "x": 29249.296875,
+      "y": -29122.314453125
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525170317.jpg",
+      "x": 33247.75,
+      "y": -31036.4765625
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525170355.jpg",
+      "x": 33731.4453125,
+      "y": -30999.810546875
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525170436.jpg",
+      "x": 32924.88671875,
+      "y": -28279.19140625
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525170506.jpg",
+      "x": -20654.046875,
+      "y": 35451.328125
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525170521.jpg",
+      "x": 33380.828125,
+      "y": -28241.060546875
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525170546.jpg",
+      "x": 36661.96875,
+      "y": -26325.794921875
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525170610.jpg",
+      "x": 2321.869384765625,
+      "y": 40127.828125
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525170618.jpg",
+      "x": 37106.58984375,
+      "y": -26291.9375
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525171155.png",
+      "x": 29243.10546875,
+      "y": -27094.142578125
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525171514.png",
+      "x": 30078.94140625,
+      "y": -27009.4140625
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525171556.png",
+      "x": 12930.455078125,
+      "y": 37629.4296875
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525171618.png",
+      "x": -42248.99609375,
+      "y": -7595.09130859375
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525171809.png",
+      "x": 36864.57421875,
+      "y": -30802.349609375
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525171817.png",
+      "x": -38518.359375,
+      "y": -18388.587890625
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525171829.png",
+      "x": 19599.732421875,
+      "y": 34262.9296875
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525171845.png",
+      "x": 34299.00390625,
+      "y": -30092.85546875
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525171951.png",
+      "x": 34732.078125,
+      "y": -30059.349609375
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525172142.png",
+      "x": 37270.51171875,
+      "y": -30771.07421875
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525172947.png",
+      "x": 23697.95703125,
+      "y": -30263.345703125
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525173330.png",
+      "x": 49459.81640625,
+      "y": -26894.29296875
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525173335.png",
+      "x": 27895.296875,
+      "y": 24937.787109375
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525173424.png",
+      "x": 49651.81640625,
+      "y": -26791.771484375
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525173502.png",
+      "x": 49846.91015625,
+      "y": -26888.24609375
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525173604.png",
+      "x": 50046.5,
+      "y": -26797.552734375
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525174044.png",
+      "x": 31695.4296875,
+      "y": -28983.0078125
+    },
+    {
+      "id": "Assets/Attachments/Pasted image 20240525174111.png",
+      "x": 32119.01171875,
+      "y": -29089.7421875
+    },
+    {
+      "id": "Assets/Attachments/Screenshot 2024-04-27 220012 1.png",
+      "x": -32261.58984375,
+      "y": -30307.333984375
+    },
+    {
+      "id": "Assets/Attachments/Screenshot 2024-04-27 220012.png",
+      "x": 32328.671875,
+      "y": -28173.65625
+    },
+    {
+      "id": "Assets/Attachments/Screenshot 2024-04-27 220236.png",
+      "x": 32812.1171875,
+      "y": -27971.69921875
+    },
+    {
+      "id": "Assets/Attachments/Screenshot 2024-04-27 222138.png",
+      "x": 31937.998046875,
+      "y": -29077.640625
+    },
+    {
+      "id": "Assets/Attachments/Vannevar_Bush 1.jpg",
+      "x": 31278.341796875,
+      "y": -31576.65625
+    },
+    {
+      "id": "Assets/Attachments/Vannevar_Bush.jpg",
+      "x": 7763.32421875,
+      "y": 37807.390625
+    },
+    {
+      "id": "Assets/Attachments/images 1 1.jpg",
+      "x": 23170.193359375,
+      "y": 30328.806640625
+    },
+    {
+      "id": "Assets/Attachments/images 1.jpg",
+      "x": -25511.390625,
+      "y": -35961.30078125
+    },
+    {
+      "id": "Assets/Attachments/images 2.jpg",
+      "x": 29310.177734375,
+      "y": -24383.3125
+    },
+    {
+      "id": "Assets/Attachments/images.jpg",
+      "x": -37547.35546875,
+      "y": 16726.501953125
+    }
+  ],
+  "automaticallyRestoreNodePositions": false
+}

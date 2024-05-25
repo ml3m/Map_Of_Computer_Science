@@ -1,0 +1,2 @@
+Professional education and training involve the systematic development of skills, knowledge, and competencies required for specific professions. This field encompasses a range of activities, including formal education, vocational training, continuing professional development, and workplace learning.
+It aims to prepare individuals for careers in various industries and to ensure that professionals can adapt to changing job requirements and advancements in their fields​ Wikipedia​​ UNESCO​​ World Bank​.

@@ -1,0 +1,1 @@
+Romanian universities and tech companies are actively involved in graphics research and development. Conferences such as the Central European Seminar on Computer Graphics (CESCG) showcase Romanian innovations and collaborations in the field.

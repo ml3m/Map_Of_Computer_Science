@@ -1,0 +1,1 @@
+These are some important conferences and publications for this particular domain: European Conference on Information Systems (ECIS), European Conference on Information Retrieval  (https://ecir2022.org/), Journal of Management Information Systems (https://www.jmis-web.org/)

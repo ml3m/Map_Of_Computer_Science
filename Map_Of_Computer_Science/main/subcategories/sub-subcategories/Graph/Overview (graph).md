@@ -1,0 +1,1 @@
+Graphics encompasses the creation, manipulation, and representation of images and visual data. This field includes computer graphics, visual effects, animation, and visualization techniques, integral to industries like gaming, film, and virtual reality.

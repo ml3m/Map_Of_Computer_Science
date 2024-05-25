@@ -1,0 +1,1 @@
+Known for advocating standards-based web design, Zeldman contributed to the development and spread of web standards, which are critical for the web's open, accessible nature. 

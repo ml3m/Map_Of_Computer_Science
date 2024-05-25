@@ -1,0 +1,7 @@
+In Romania, advancements in Scientific Computing can be linked to academic and research institutions such as the University of Bucharest and the Politehnica University of Bucharest. These institutions contribute to the development of computational science through education and research, focusing on areas like numerical simulation and data analysis. Collaborations with international centers and participation in global scientific computing communities further strengthen Romania's position in the field. 
+
+Romania has notable key figures in the field of scientific computing and related disciplines. One such figure is Professor Constantin Fetecău, a mathematician specializing in elasticity and fluid mechanics. His career has included significant contributions through research fellowships and academic positions at various institutions, both in Romania and internationally. Professor Fetecău has also authored numerous scientific papers and textbooks, enhancing the field's body of knowledge significantly.
+
+Moreover, Romania hosts important conferences in the field of scientific computing, such as the International Conference on Advanced Scientific Computing (ICASC). These conferences serve as platforms for the latest developments in computational technologies and methods, crucial for fostering collaboration and innovation among specialists.
+
+![[Screenshot 2024-04-27 220236.png]]

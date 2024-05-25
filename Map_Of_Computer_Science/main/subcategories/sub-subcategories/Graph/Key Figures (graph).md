@@ -1,0 +1,2 @@
+Prominent figures include Ivan Sutherland, known as the father of computer graphics, and Ed Catmull, a co-founder of Pixar Animation Studios. Their contributions have significantly advanced the field of computer graphics and animation.
+#people 

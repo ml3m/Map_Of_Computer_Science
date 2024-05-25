@@ -1,0 +1,1 @@
+Romania's involvement in software engineering is notable, especially in its education system and tech industry, which are actively engaged in the global software development community. Romanian universities offer courses and degrees in software engineering, contributing to the country's growing presence in the international tech scene.

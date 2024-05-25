@@ -1,0 +1,1 @@
+- These individuals are noted for developing Cascading Style Sheets (CSS), a cornerstone technology in web design that allows for the separation of content and design, thus enabling more complex and visually engaging web architectures.

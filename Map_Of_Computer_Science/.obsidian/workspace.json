@@ -1,0 +1,465 @@
+{
+  "main": {
+    "id": "c5023990b2e9504d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b59a95b8f81f1c63",
+        "type": "split",
+        "children": [
+          {
+            "id": "e4b87b1540d156f0",
+            "type": "tabs",
+            "dimension": 62.31393775372125,
+            "children": [
+              {
+                "id": "b045d48198db2a89",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
+              }
+            ]
+          },
+          {
+            "id": "114bffa6f4327f5c",
+            "type": "tabs",
+            "dimension": 37.68606224627876,
+            "children": [
+              {
+                "id": "84e2f771c2b5e40d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/AI/Important people & journals(AI).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ddf9389af223af83",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/WSD/Advantages of Using Web Services_WSD.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d3c07a640b663d35",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/WSD/sub-sub/Håkon Wium Lie and Bert Bos.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8f95198b8e0a0510",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/COGSCI/Challenges and Solutions(Cognitive Science.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fdf9d0974f8454bd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/WSD/Key Figures_WSD.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "45930785e8d5c80b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/Computer Science.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "eb891806a5a8332f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/Computer Science.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d68044feee51e05e",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Assets/Attachments/Pasted image 20240525173330.png"
+                  }
+                }
+              },
+              {
+                "id": "24f33effd0f34bee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/AI/sub-sub/Babeș-Bolyai University.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "cacbe803b061b54d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/DLS/Key Figures_dls.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "89bbf51cda940ab4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/AI/sub-sub/Babeș-Bolyai University.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8bd4875c445561f3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/BIOI/Important people & stuff(Bio Informatics).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "88ea309a7e7a2220",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/AI/Important people & journals(AI).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "6f7d48c23bb50217",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/MD/Key Figures(MD).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3d88fc5b8209455f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "worldwide/MIT.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "65bfac227dac858c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/MD/sub-sub/John Maeda.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "42976c93e7855d54",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/DLS/Connection with Romania_dls.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b7772652604cbcfb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/AI/sub-sub/Babeș-Bolyai University.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1edf48e13ea1b4b4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/subcategories/sub-subcategories/Graph/Challenges and Solutions(graph).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a3acbab7f04d5065",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/categories/bioinformatics.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a3f6c4f2c0529864",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "main/Computer Science.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 20
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9866e7a6e22cb955",
+    "type": "split",
+    "children": [
+      {
+        "id": "b957b1de8a528d95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da47db5dd4e87fca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be76c57108e7c689",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#people",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f22816b9121a2a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461.5
+  },
+  "right": {
+    "id": "c41b5003fa345b9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3ea9984b03884a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ec22fb50d71186d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "main/Computer Science.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40f4a75e1e77e5ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "main/Computer Science.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff687ed181b9ac55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9a7398032f87165",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "main/Computer Science.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "a3f6c4f2c0529864",
+  "lastOpenFiles": [
+    "main/categories/software engineering.md",
+    "main/categories/software architecture.md",
+    "main/categories/scientific computing.md",
+    "main/categories/system administration.md",
+    "main/categories/system security and privacy.md",
+    "main/categories/web service design.md",
+    "main/categories/network engineering.md",
+    "main/categories/graphics.md",
+    "main/categories/HCI (human computer interaction).md",
+    "main/categories/database engineering.md",
+    "main/categories/Artificial intelligence.md",
+    "main/categories/bioinformatics.md",
+    "main/subcategories/sub-subcategories/Graph/Challenges and Solutions(graph).md",
+    "main/subcategories/sub-subcategories/AI/sub-sub/Babeș-Bolyai University.md",
+    "main/subcategories/sub-subcategories/DLS/Key Figures_dls.md",
+    "main/subcategories/sub-subcategories/DLS/sub-sub",
+    "main/subcategories/sub-subcategories/DLS/sub-sub/Vannevar Bush.md",
+    "main/subcategories/sub-subcategories/DLS/Connection with Romania_dls.md",
+    "main/subcategories/sub-subcategories/MD/sub-sub/John Maeda.md",
+    "worldwide/MIT.md",
+    "main/subcategories/sub-subcategories/MD/Key Figures(MD).md",
+    "main/subcategories/sub-subcategories/MD/sub-sub",
+    "11.md",
+    "main/subcategories/sub-subcategories/AI/Important people & journals(AI).md",
+    "main/subcategories/sub-subcategories/BIOI/Important people & stuff(Bio Informatics).md",
+    "3.md",
+    "5.md",
+    "Assets/Attachments/Pasted image 20240525173330.png",
+    "Assets/Attachments/Pasted image 20240525222603.png",
+    "main/Computer Science.md",
+    "main/subcategories/sub-subcategories/WSD/sub-sub",
+    "main/subcategories/sub-subcategories/Sysadmin/sub-sub",
+    "Assets/Attachments/Pasted image 20240525221437.png",
+    "Assets/Attachments/Pasted image 20240525221430.png",
+    "Assets/Attachments/Pasted image 20240525221417.png",
+    "Assets/Attachments/Pasted image 20240525221409.png",
+    "Assets/Attachments/Screenshot 2024-04-27 220236.png",
+    "Assets/Attachments/Pasted image 20240525172947.png",
+    "main/subcategories/sub-subcategories/KE",
+    "main/subcategories/sub-subcategories/DBE",
+    "main/subcategories/sub-subcategories/CS",
+    "Assets/Attachments/Pasted image 20240525174111.png",
+    "Assets/Attachments/Pasted image 20240525174044.png",
+    "main/subcategories/sub-subcategories/PROED",
+    "main/subcategories/sub-subcategories/NE",
+    "main/subcategories/sub-subcategories/Graph",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}

@@ -1,0 +1,4 @@
+1. **XML (Extensible Markup Language):** Used to encode data and provide metadata, facilitating data exchange between different systems.
+2. **SOAP (Simple Object Access Protocol):** A protocol used for exchanging structured information in the implementation of web services in computer networks.
+3. **WSDL (Web Services Description Language):** An XML-based language used to describe the functionalities offered by a web service. It specifies how to access a web service and what operations it will perform.
+4. **UDDI (Universal Description, Discovery, and Integration):** A platform-independent framework for describing services, discovering businesses, and integrating business services using the internet.

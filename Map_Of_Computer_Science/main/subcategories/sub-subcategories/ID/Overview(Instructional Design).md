@@ -1,0 +1,1 @@
+Instructional design is a systematic process for creating effective and efficient learning experiences. It involves analyzing learning needs, designing instructional materials, developing learning activities, and evaluating learner outcomes. (https://en.wikipedia.org/wiki/Instructional_design)

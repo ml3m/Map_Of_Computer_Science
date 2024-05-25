@@ -1,0 +1,1 @@
+Natural and Immersive Interfaces: HCI will continue to evolve towards more natural and immersive interfaces, including voice, gesture, and gaze-based interactions. Technologies such as augmented reality (AR), virtual reality (VR), and mixed reality (MR) will play a significant role in creating immersive user experiences.

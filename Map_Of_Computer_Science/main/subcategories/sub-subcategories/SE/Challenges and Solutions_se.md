@@ -1,0 +1,1 @@
+Software engineering faces challenges such as managing complexity, ensuring software quality, and adapting to changing requirements. Solutions involve adopting methodologies like Agile, Scrum, and DevOps to improve flexibility in development processes and foster better team collaboration and project management.

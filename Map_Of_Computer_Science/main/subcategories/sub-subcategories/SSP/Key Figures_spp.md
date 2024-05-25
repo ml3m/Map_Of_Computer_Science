@@ -1,0 +1,2 @@
+Effective system security involves several key measures such as data encryption, secure user authentication, and the application of security policies that govern access and use of resources. Privacy measures include data minimization, transparency, and ensuring users' control over their personal information.
+#people 

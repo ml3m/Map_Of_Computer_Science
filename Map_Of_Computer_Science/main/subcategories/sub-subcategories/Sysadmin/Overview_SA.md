@@ -1,0 +1,1 @@
+System administration involves managing and maintaining the efficient and secure operation of computer systems and networks. The role of a system administrator is crucial in ensuring the smooth functioning of IT infrastructures, which includes tasks like installing, configuring, updating, and troubleshooting various system components such as servers, software, and security tools.

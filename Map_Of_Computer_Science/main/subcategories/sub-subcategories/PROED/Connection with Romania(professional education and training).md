@@ -1,0 +1,3 @@
+Romania places significant importance on professional education and training, with institutions like the **Polytechnic University of Bucharest** and the **Romanian-American University** offering specialized programs. The country also participates in EU initiatives such as Erasmus+ to enhance vocational education and training.
+
+Various Romanian companies and industries collaborate with educational institutions to ensure that the workforce is well-prepared for the demands of the modern economy​ Erasmus+ Romania​​ Ministry of Education, Romania​.

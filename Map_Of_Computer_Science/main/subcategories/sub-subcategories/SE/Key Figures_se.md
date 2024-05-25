@@ -1,0 +1,3 @@
+Key historical figures in software engineering include Margaret Hamilton, who coined the term "software engineering" during her work on the Apollo missions. The field has evolved significantly since then, with contributions from many leading computer scientists and engineers who have developed various programming languages, tools, and methodologies.
+#people 
+![[Screenshot 2024-04-27 222138.png||500]]
