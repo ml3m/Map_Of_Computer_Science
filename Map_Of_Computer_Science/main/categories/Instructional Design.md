@@ -1,6 +1,6 @@
 ---
 tags:
-  - main
+  - global
 ---
 [[Overview(Instructional Design)]]
 [[Challenges and Solutions(Instructional Design)]]

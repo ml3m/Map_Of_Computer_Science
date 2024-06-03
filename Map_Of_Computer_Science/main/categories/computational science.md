@@ -1,7 +1,6 @@
 ---
 tags:
   - local
-  - main
 ---
 [[Overview(CS)]]
 [[References(CS)]]

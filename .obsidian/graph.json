@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#main  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755056
+      }
+    },
+    {
+      "query": "tag:#global  ",
+      "color": {
+        "a": 1,
+        "rgb": 16734464
+      }
+    },
+    {
+      "query": "tag:#local  ",
+      "color": {
+        "a": 1,
+        "rgb": 4685567
+      }
+    },
+    {
+      "query": "tag:#people  ",
+      "color": {
+        "a": 1,
+        "rgb": 15032831
+      }
+    },
+    {
+      "query": "tag:#uvt_people  ",
+      "color": {
+        "a": 1,
+        "rgb": 16760371
+      }
+    },
+    {
+      "query": "tag:#start  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.02326434986333,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.442483404919953,
+  "repelStrength": 14.0476376415463,
+  "linkStrength": 0.747364310816088,
+  "linkDistance": 226,
+  "scale": 0.46822125703275475,
+  "close": false
+}

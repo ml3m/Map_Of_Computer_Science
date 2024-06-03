@@ -1,7 +1,6 @@
 ---
 tags:
   - local
-  - main
 ---
 [[General(MIS)]]
 [[Problems(MIS)]]

@@ -1,7 +1,6 @@
 ---
 tags:
   - local
-  - main
 ---
 [[General(PE)]]
 [[Challenges and Solutions(PE)]]

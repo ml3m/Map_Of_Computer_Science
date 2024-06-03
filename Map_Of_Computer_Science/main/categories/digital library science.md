@@ -1,7 +1,6 @@
 ---
 tags:
-  - local
-  - main
+  - global
 ---
 [[General_dls]]
 [[Challenges and Solutions_dls]]

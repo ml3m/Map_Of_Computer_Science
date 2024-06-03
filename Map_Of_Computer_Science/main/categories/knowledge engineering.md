@@ -1,6 +1,6 @@
 ---
 tags:
-  - main
+  - global
 ---
 [[Challenges and Solutions(KE)]]
 [[Connection with Romania(KE)]]

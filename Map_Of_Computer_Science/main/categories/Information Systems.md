@@ -1,6 +1,6 @@
 ---
 tags:
-  - main
+  - local
 ---
 [[Overview(Information System)]]
 [[Challenges and Solutions(Information Systems)]]

@@ -1,7 +1,6 @@
 ---
 tags:
-  - local
-  - main
+  - global
 ---
 [[Overview (graph)]]
 [[Challenges and Solutions(graph)]]

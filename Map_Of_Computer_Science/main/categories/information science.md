@@ -1,4 +1,4 @@
-#main 
+#local 
 [[Overview_IS]]
 [[Key Challenges and Solutions_IS]]
 [[Future Trends_IS]]

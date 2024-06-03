@@ -10,7 +10,7 @@
           {
             "id": "e4b87b1540d156f0",
             "type": "tabs",
-            "dimension": 62.31393775372125,
+            "dimension": 52.435064935064936,
             "children": [
               {
                 "id": "b045d48198db2a89",
@@ -27,7 +27,7 @@
           {
             "id": "114bffa6f4327f5c",
             "type": "tabs",
-            "dimension": 37.68606224627876,
+            "dimension": 47.564935064935064,
             "children": [
               {
                 "id": "84e2f771c2b5e40d",
@@ -349,7 +349,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main/Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -366,7 +365,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "main/Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -388,9 +386,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "main/Computer Science.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -410,8 +406,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a3f6c4f2c0529864",
+  "active": "b045d48198db2a89",
   "lastOpenFiles": [
+    "main/Computer Science.md",
     "main/categories/software engineering.md",
     "main/categories/software architecture.md",
     "main/categories/scientific computing.md",
@@ -441,7 +438,6 @@
     "5.md",
     "Assets/Attachments/Pasted image 20240525173330.png",
     "Assets/Attachments/Pasted image 20240525222603.png",
-    "main/Computer Science.md",
     "main/subcategories/sub-subcategories/WSD/sub-sub",
     "main/subcategories/sub-subcategories/Sysadmin/sub-sub",
     "Assets/Attachments/Pasted image 20240525221437.png",

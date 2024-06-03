@@ -1,6 +1,6 @@
 ---
 tags:
-  - main
+  - local
 ---
 [[General_se]]
 [[Challenges and Solutions_se]]

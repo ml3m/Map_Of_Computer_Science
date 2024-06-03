@@ -1,7 +1,6 @@
 ---
 tags:
   - local
-  - main
 ---
 [[General_sc]]
 [[Challenges and Solutions_sc]]

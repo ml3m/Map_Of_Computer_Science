@@ -1,4 +1,4 @@
-#main 
+#local 
 [[Overview_WSD]]
 [[Key Components_WSD]]
 [[Lifecycle Phases_WSD]]

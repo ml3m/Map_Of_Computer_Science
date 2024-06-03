@@ -1,6 +1,6 @@
 ---
 tags:
-  - main
+  - local
 ---
 [[General_ssp]]
 [[Challenges and Solutions_ssp]]

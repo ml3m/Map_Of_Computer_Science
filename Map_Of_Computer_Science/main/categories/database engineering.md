@@ -1,9 +1,8 @@
 ---
 tags:
   - local
-  - main
 ---
-[[Challenges and Solutions(DBE)]]
+	[[Challenges and Solutions(DBE)]]
 [[Overview(DBE)]]
 [[References(DBE)]]
 [[Key Figures(DBE)]]

@@ -1,7 +1,6 @@
 ---
 tags:
-  - local
-  - main
+  - global
 ---
 [[General(Cognitive Science)]]
 [[Important People and Universities(Cognitive Science)]]

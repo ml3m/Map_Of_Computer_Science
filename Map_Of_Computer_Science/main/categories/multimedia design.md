@@ -1,7 +1,6 @@
 ---
 tags:
-  - local
-  - main
+  - global
 ---
 [[General(MD)]]
 [[Key Figures(MD)]]
