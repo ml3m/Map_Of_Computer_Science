@@ -147,3 +147,5 @@ Feel free to customize these instructions based on your specific map structure a
 [[system administration]]
 [[instructional design]]
 [[web service design]]
+
+![image](https://github.com/ml3m/Map_Of_Computer_Science/assets/159339398/487bef6c-5c6f-4c84-a46a-7d852ae7fada)
