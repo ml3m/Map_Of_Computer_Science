@@ -172,9 +172,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c84fa182b2aa3afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Map_Of_Computer_Science/main/subcategories/sub-subcategories/BIOI/Important people (Bio Informatics).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -240,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map_Of_Computer_Science/local/UVT.md",
+                "file": "Map_Of_Computer_Science/main/subcategories/sub-subcategories/BIOI/Important people (Bio Informatics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map_Of_Computer_Science/local/UVT.md",
+                "file": "Map_Of_Computer_Science/main/subcategories/sub-subcategories/BIOI/Important people (Bio Informatics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map_Of_Computer_Science/local/UVT.md"
+                "file": "Map_Of_Computer_Science/main/subcategories/sub-subcategories/BIOI/Important people (Bio Informatics).md"
               }
             }
           }
@@ -301,8 +313,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc4784f587c8cb5f",
+  "active": "c84fa182b2aa3afe",
   "lastOpenFiles": [
+    "Map_Of_Computer_Science/main/categories/bioinformatics.md",
+    "README.md",
     "Obsidian Computer Science Map Instructions.md",
     "Map_Of_Computer_Science/local/UVT_figures/(Contact) Artificial Intelligence - BioInformatics.md",
     "Map_Of_Computer_Science/local/UVT_figures/(Contact) Artificial Intelligence - Software Engineering.md",
@@ -327,8 +341,6 @@
     "Map_Of_Computer_Science/main/categories/professional education and training.md",
     "Map_Of_Computer_Science/main/categories/performance evaluation.md",
     "Map_Of_Computer_Science/main/categories/network engineering.md",
-    "Map_Of_Computer_Science/main/categories/multimedia design.md",
-    "Map_Of_Computer_Science/main/categories/management information systems.md",
-    "Map_Of_Computer_Science/main/categories/knowledge engineering.md"
+    "Map_Of_Computer_Science/main/categories/multimedia design.md"
   ]
 }
