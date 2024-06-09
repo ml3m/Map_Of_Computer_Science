@@ -109,17 +109,6 @@ other technical instructions:
 
 Navigating the Computer Science Map in Obsidian is straightforward once you get the hang of linking and exploring notes. Use these instructions to efficiently move through categories and sub-categories, leveraging Obsidian’s powerful linking and graph visualization features. Happy studying!
 
----
-
-Feel free to customize these instructions based on your specific map structure and any additional features you might have incorporated in your Obsidian setup.
-
-
-
-
-
-
-
-
 --- ignore
 ---- for rank
 
